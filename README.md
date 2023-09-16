@@ -2,7 +2,7 @@
 
 I'm Sai Brahmam, a Software Development Engineer with a passion for problem-solving and a strong foundation in Java and various technologies. Committed to delivering high-quality software solutions. Let's build the future together!
 
-📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/sai-brahmam-b470a6180/) • [Portfolio](https://github.com/Sai-Brahmam) • [Email](Saibrahmam26@gmail.com)
+📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/sai-brahmam-b470a6180/) • [Portfolio](https://github.com/Sai-Brahmam) • [Email](mailto:Saibrahmam26@gmail.com)
 
 #### Technology Stack
 ![Java](https://img.shields.io/badge/Java-★★★-orange?style=flat&logo=java)
