@@ -1,47 +1,59 @@
 ### Hi there 👋
 
-I'm Sai Brahmam, a Software Development Engineer with a passion for problem-solving and a strong foundation in Java and various technologies. Committed to delivering high-quality software solutions. Let's build the future together!
+I'm Sai Brahmam, a Software Developer with a robust background in microservices architecture and a keen interest in problem-solving and mathematics. With a proven ability to design and implement complex systems, I thrive in dynamic team environments and excel at delivering end-to-end software solutions. I also have a passion for teaching and enjoy sharing my knowledge in software development. Additionally, I am an avid chess player, which fuels my strategic thinking and continuous learning.
 
-📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/sai-brahmam-b470a6180/) • [Portfolio](https://github.com/Sai-Brahmam) • [Email](mailto:Saibrahmam26@gmail.com)
-
-#### Technology Stack
-![Java](https://img.shields.io/badge/Java-★★★-orange?style=flat&logo=java)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-★★★-green?style=flat&logo=spring)
-![Hibernate](https://img.shields.io/badge/Hibernate-★★-blue?style=flat&logo=hibernate)
-![REST API](https://img.shields.io/badge/REST%20API-★★★-purple?style=flat)
-![HTML](https://img.shields.io/badge/HTML-★★-red?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-★★-blue?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-★★-yellow?style=flat&logo=javascript)
-![MySQL](https://img.shields.io/badge/MySQL-★★★-blue?style=flat&logo=mysql)
-![Git](https://img.shields.io/badge/Git-★★★-orange?style=flat&logo=git)
-
-#### Professional Experience
-##### Associate Business Data Analyst | Merkle.com | 08/22-01/23
-- Drove India’s top e-commerce clients to achieve critical business metrics and financial goals through Google data analytics.
-- Synthesized raw data into actionable insights, identified key trends, and increased ROI for a multinational retailer.
-- Utilized Java and Python for data analysis.
-
-#### Personal Projects
-##### Interactive Quiz Application | CodeLink a
-- A full-stack quiz application with Java 17, Spring Boot, and MySQL.
-- Frontend designed with HTML, CSS, JavaScript, and Bootstrap for a dynamic user interface.
-- Implemented CRUD operations through REST APIs for efficient data management.
-
-##### SignUp-Login Feature | CodeLink a
-- Migrated signup-login feature from J2EE to Spring Boot for improved performance and scalability.
-- Leveraged Spring Data JPA for streamlined database interactions.
+📫 Reach me at: [Email](mailto:Saibrahmam26@gmail.com)
 
 #### Skills
-- **Languages**: Java, Python
-- **Backend**: Spring Boot, Hibernate, Java EE
-- **Frontend**: HTML, CSS, JavaScript, JSP
-- **Databases**: MySQL
-- **Version Control**: Git, GitHub
-- **Testing and QA**: JUnit, Postman
-- **Web Dev Tools**: Eclipse, IntelliJ
-- **Soft Skills**: Logical, Problem Solving, Self-learning, Presentation, Adaptability
+- **Programming Languages**: 
+  ![Java](https://img.shields.io/badge/Java-★★★-orange?style=flat&logo=java)
+  ![C](https://img.shields.io/badge/C-★★-blue?style=flat&logo=c)
+  ![SQL](https://img.shields.io/badge/SQL-★★★-blue?style=flat&logo=mysql)
+- **Frameworks and Technologies**: 
+  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-★★★-green?style=flat&logo=spring)
+  ![Microservices](https://img.shields.io/badge/Microservices-★★★-purple?style=flat)
+  ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-★★★-orange?style=flat)
+  ![React](https://img.shields.io/badge/React-★★★-blue?style=flat&logo=react)
+- **APIs**: 
+  ![RESTful Web Services](https://img.shields.io/badge/RESTful%20Web%20Services-★★★-purple?style=flat)
+  ![OpenFeign](https://img.shields.io/badge/OpenFeign-★★-blue?style=flat)
+- **Testing**: 
+  ![JUnit](https://img.shields.io/badge/JUnit-★★★-blue?style=flat&logo=junit)
+  ![Mockito](https://img.shields.io/badge/Mockito-★★-green?style=flat)
+- **Tools**: 
+  ![Docker](https://img.shields.io/badge/Docker-★★★-blue?style=flat&logo=docker)
+  ![Git](https://img.shields.io/badge/Git-★★★-orange?style=flat&logo=git)
+
+#### Experience
+
+**Associate Software Developer**  
+*Amvotech Solutions* - Hyderabad  
+*11/2023 - Present*  
+- Designed and implemented microservices to migrate a legacy monolithic insurance application to a microservices architecture using Spring Boot.
+
+**Java Developer Intern**  
+*Feuj* - Hyderabad  
+*06/2023 - 10/2023*  
+- Trained in Java and Spring Boot in a professional environment.
+
+**Business Analyst**  
+*Merkle* - Location  
+*Date period*  
+- Synthesized raw data into actionable insights to drive business results, identified key trends and opportunities, and assisted a large MNC in increasing its ROI.
+
+#### Developer Community Experience
+- [LeetCode](https://leetcode.com/your-profile-link) - Enjoy coding challenges and problem-solving.
+
+#### Public Speaking Experience
+- Delivered a tech talk on Data Encoding Formats at IIITH during DevDay Hyderabad.
+
+#### Freelance Tutor
+- Teach during my free time, sharing knowledge and expertise in Computer Science.
+
+#### Courses
+- **Artificial Intelligence and Machine Learning** - UpGrad ([Profile link](https://profile-link))
 
 #### Let's Connect
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sai-brahmam-b470a6180/) to discuss potential opportunities or collaborations.
+Feel free to reach out to me via [Email](mailto:Saibrahmam26@gmail.com) to discuss potential opportunities or collaborations.
 
 Thanks for visiting my GitHub profile! 😄
