@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Sai Brahmam, a Software Developer specializing in microservices architecture. With a passion for problem-solving, mathematics, and strategic thinking, I excel in designing and implementing complex systems. I also enjoy teaching software development and strategizing through chess.
+I'm Sai Brahmam, a Software Developer specializing in microservices architecture. With a passion for problem-solving, mathematics, and strategic thinking, I excel in designing and implementing complex systems. I also enjoy strategizing through chess.
 
 
 📫 Reach me at: [Email](mailto:Saibrahmam26@gmail.com)
