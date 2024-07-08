@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-I'm Sai Brahmam, a Software Developer specializing in microservices architecture. With a passion for problem-solving, mathematics, and strategic thinking, I excel in designing and implementing complex systems. I also enjoy strategizing through chess.
+I'm **Sai Brahmam**, a Software Developer specializing in **microservices architecture**. My passion for problem-solving, mathematics, and strategic thinking drives me to excel in designing and implementing complex systems. When I'm not coding, I enjoy strategizing through chess.
 
+📫 **Contact**: [Email](mailto:Saibrahmam26@gmail.com)
 
-📫 Reach me at: [Email](mailto:Saibrahmam26@gmail.com)
+---
 
-#### Skills
+#### 💼 Skills
 - **Programming Languages**: 
   ![Java](https://img.shields.io/badge/Java-★★★-orange?style=flat&logo=java)
   ![C](https://img.shields.io/badge/C-★★-blue?style=flat&logo=c)
@@ -25,12 +26,14 @@ I'm Sai Brahmam, a Software Developer specializing in microservices architecture
   ![Docker](https://img.shields.io/badge/Docker-★★★-blue?style=flat&logo=docker)
   ![Git](https://img.shields.io/badge/Git-★★★-orange?style=flat&logo=git)
 
-#### Experience
+---
+
+#### 💼 Experience
 
 **Associate Software Developer**  
 *Amvotech Solutions* - Hyderabad  
 *11/2023 - Present*  
-- Designed and implemented microservices to migrate a legacy monolithic insurance application to a microservices architecture using Spring Boot.
+- Migrated a legacy monolithic insurance application to a microservices architecture using Spring Boot.
 
 **Java Developer Intern**  
 *Feuj* - Hyderabad  
@@ -40,21 +43,24 @@ I'm Sai Brahmam, a Software Developer specializing in microservices architecture
 **Business Analyst**  
 *Merkle* - Location  
 *Date period*  
-- Synthesized raw data into actionable insights to drive business results, identified key trends and opportunities, and assisted a large MNC in increasing its ROI.
+- Provided actionable insights from raw data to drive business results and enhance ROI for a large MNC.
 
-#### Developer Community Experience
-- [LeetCode](https://leetcode.com/your-profile-link) - Enjoy coding challenges and problem-solving.
+---
 
-#### Public Speaking Experience
+#### 🌐 Developer Community Experience
+- [LeetCode](https://leetcode.com/your-profile-link) - Enjoy solving coding challenges and problem-solving.
+
+#### 🎤 Public Speaking Experience
 - Delivered a tech talk on Data Encoding Formats at IIITH during DevDay Hyderabad.
 
-#### Freelance Tutor
+#### 📚 Freelance Tutor
 - Teach during my free time, sharing knowledge and expertise in Computer Science.
 
-#### Courses
+#### 📖 Courses
 - **Artificial Intelligence and Machine Learning** - UpGrad ([Profile link](https://profile-link))
 
-#### Let's Connect
-Feel free to reach out to me via [Email](mailto:Saibrahmam26@gmail.com) to discuss potential opportunities or collaborations.
+---
+
+Feel free to reach out via [Email](mailto:Saibrahmam26@gmail.com) to discuss potential opportunities or collaborations.
 
 Thanks for visiting my GitHub profile! 😄
